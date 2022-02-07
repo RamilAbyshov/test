@@ -7,3 +7,5 @@ I never asked for this
 Interesting Line
 More lines?
 new branch line
+
+Line for GUI
